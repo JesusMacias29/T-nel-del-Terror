@@ -41,6 +41,11 @@ Simula la entrada a un túnel del terror y una ruleta aleatoria que reparte **TR
 - Compatible con IDEs como IntelliJ, Eclipse o NetBeans.
 
 ---
+
+🧾 Aquí puedes entrar al PDF y ver las capturas de Entrada y Ruleta
+-> 
+
+---
 🧾 Conclusión
 
 Este proyecto ha sido una forma divertida de practicar JavaFX y Scene Builder, mezclando programación con creatividad.
