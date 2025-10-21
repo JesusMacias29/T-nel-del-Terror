@@ -51,7 +51,7 @@ public class RuletaController {
 
     @FXML
     public void initialize() {
-        // Alterna 8 sectores (4 TRUCO + 4 TRATO)
+        
         for (int i = 0; i < 8; i++) {
             boolean esTruco = (i % 2 == 0);
             String tipo = esTruco ? "TRUCO" : "TRATO";
