@@ -43,7 +43,7 @@ Simula la entrada a un túnel del terror y una ruleta aleatoria que reparte **TR
 ---
 
 🧾 Aquí puedes entrar al PDF y ver las capturas de Entrada y Ruleta
--> 
+-> https://github.com/JesusMacias29/T-nel-del-Terror/blob/main/T%C3%BAnel%20del%20Terror%20Jes%C3%BAs%20Mac%C3%ADas.pdf
 
 ---
 🧾 Conclusión
