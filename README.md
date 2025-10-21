@@ -1,5 +1,7 @@
 # 🎃 Túnel del Terror — Ruleta TRUCO / TRATO (JavaFX)
 
+JESÚS MACÍAS OJUELOS
+
 Mini aplicación creada en **JavaFX + Scene Builder** como práctica evaluable del Módulo 5.  
 Simula la entrada a un túnel del terror y una ruleta aleatoria que reparte **TRUCOS** o **TRATOS** con humor y ambientación de Halloween. 👻
 
