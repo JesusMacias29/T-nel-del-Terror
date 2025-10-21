@@ -38,16 +38,15 @@ Simula la entrada a un túnel del terror y una ruleta aleatoria que reparte **TR
 - **Maven 3.9+**
 - Compatible con IDEs como IntelliJ, Eclipse o NetBeans.
 
-### 🚀 Comando para ejecutar:
-```bash
-mvn clean javafx:run
-
 ---
-
 🧾 Conclusión
 
 Este proyecto ha sido una forma divertida de practicar JavaFX y Scene Builder, mezclando programación con creatividad.
 El resultado es una pequeña app de Halloween con buen diseño, animaciones suaves y un toque de humor 👻.
 Además de aprender a validar datos, pasar información entre pantallas y aplicar estilos con CSS, fue una buena forma de hacer algo distinto y entretenido.🎃
 
----
+### 🚀 Comando para ejecutar:
+```bash
+mvn clean javafx:run
+
+
